@@ -33,6 +33,7 @@
 * **[atelier-packet-tracer-s03](https://github.com/Guiiks28/atelier-packet-tracer-s03)** : Plan d'adressage, routage statique et DHCP sur Cisco Packet Tracer.
 * **[Documentation-Active-Directory-FSRM](https://github.com/Guiiks28/Documentation-Active-Directory-FSRM)** : Déploiement d'un domaine Active Directory complet et gestion des droits/quotas.
 * **[secured-infrastructure-labs](https://github.com/Guiiks28/secured-infrastructure-labs)** : Procédures techniques, architectures visuelles et documentations de déploiement d'infrastructures Windows Server sécurisées.
+* **[Exchange-Server](https://github.com/Guiiks28/Exchange-Server)** Procédures d'administration & de sécurisation Microsoft Exchange Server : boîtes partagées, règles de transport, bandeaux anti-phishing et gestion des flux SMTP.
   
 ---
 
