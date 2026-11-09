@@ -36,7 +36,8 @@
 * **[Exchange-Server](https://github.com/Guiiks28/Exchange-Server)** Procédures d'administration & de sécurisation Microsoft Exchange Server : boîtes partagées, règles de transport, bandeaux anti-phishing et gestion des flux SMTP.
 * **[ADCS-DHCP](https://github.com/Guiiks28/ADCS-DHCP)** Autorité de certification d'entreprise & Adressage réseau.
 * **[Linux-Mail-Service](https://github.com/Guiiks28/Linux-Mail-Service)** Administration d'un Service Linux (Postfix / Dovecot & Troubleshooting Journalctl).
-  
+* **[Samba](https://github.com/Guiiks28/Atelier-Samba)** Remplacement d'un contrôleur de domaine Windows Server et Active Directory par un serveur Linux Debian et Samba.
+    
 ---
 
 ## 🎓 Parcours
