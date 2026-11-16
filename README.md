@@ -1,7 +1,7 @@
 # Guillaume GEREMY - Administrateur d'Infrastructures Sécurisées
 
 🔹 **Formation** : Titre RNCP Niveau 6 (Bac +4) Administrateur d'Infrastructures Sécurisées - École O'clock  
-📍 **Localisation** : Gommerville (28310) / Île-de-France & Centre  
+📍 **Localisation** : 28310 | Essonne & Centre & Yvelines  
 💼 **Recherche** : Stage de 10 semaines à partir de février 2027
 
 ---
