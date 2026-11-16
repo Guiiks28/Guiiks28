@@ -37,7 +37,8 @@
 * **[ADCS-DHCP](https://github.com/Guiiks28/ADCS-DHCP)** Autorité de certification d'entreprise & Adressage réseau.
 * **[Linux-Mail-Service](https://github.com/Guiiks28/Linux-Mail-Service)** Administration d'un Service Linux (Postfix / Dovecot & Troubleshooting Journalctl).
 * **[Samba](https://github.com/Guiiks28/Atelier-Samba)** Remplacement d'un contrôleur de domaine Windows Server et Active Directory par un serveur Linux Debian et Samba.
-    
+* **[Asterisk](https://github.com/Guiiks28/asterisk-debian13-voip)** Ce projet consiste à déployer et configurer un serveur de téléphonie IP (VoIP) basé sur Asterisk 22, compilé depuis ses sources sur une machine virtuelle Debian 13.
+ 
 ---
 
 ## 🎓 Parcours
